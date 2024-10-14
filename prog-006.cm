@@ -1,0 +1,9 @@
+int a;
+int b[10];
+
+int input(void){
+  return;
+}
+
+
+
